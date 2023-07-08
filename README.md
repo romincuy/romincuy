@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Muhromin**.\
+Perkenalkan nama saya **Muhromin**.
 
 Saya seorang **Web Developer**  
 
