@@ -1,4 +1,11 @@
-### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Gilang Ramadhan**.\
+
+Saya seorang **Web Developer**  
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin]([https://www.linkedin.com/in/gilang-adhan/](https://www.linkedin.com/in/muh-romin-183601282/))ku ya.
+
 
 <!--
 **romin10/romin10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
